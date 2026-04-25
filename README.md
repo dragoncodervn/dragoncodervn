@@ -1,6 +1,5 @@
 ## Hello, world👋
 I'm Duy (Nguyen), a Vietnamese student at Ho Chi Minh City University of Technology and Engineering (HCM-UTE) 
-
 P/S: Ho Chi Minh City University of Technology and Education (is my old university's name)
 
 - 🌱 I’m currently learning in major Information Technology at the university
