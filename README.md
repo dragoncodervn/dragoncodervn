@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Duy (Nguyen), a Vietnamese student at Ho Chi Minh City University of Technology and Engineering (HCM-UTE)👋
+P/S: Ho Chi Minh City University of Technology and Education (is my old university's name)
 
+- 🌱 I’m currently learning in major Information Technology at the university
+- 🤔 I’m looking for help with preparing for work!!!
 <!--
 **dragoncodervn/dragoncodervn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
